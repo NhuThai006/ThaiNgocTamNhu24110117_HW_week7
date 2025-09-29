@@ -4,12 +4,14 @@ Dyer Oasis 21
 Manhattan Tonopah 25
 Manhattan Warm_Springs 60
 Tonopah Warm_Springs 55
-Tonopah Goldfield 40
+Tonopah Silver_Pea 40
+Tonopah Goldfield 35
 Silver_Pea Goldfield 20
-Silver_Pea Lida 25
 Oasis Deep_Springs 10
 Oasis Silver_Pea 23
+Oasis Lida 25
 Deep_Springs Gold_Point 30
 Gold_Point Beatty 45
 Gold_Point Lida 12
-Lida Goldfield 70
+Lida Goldfield 20
+Goldfield Beatty 70
